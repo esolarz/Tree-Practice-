@@ -27,11 +27,11 @@ It is valid to put 3 or more orderings in and it is valid to put none in.
 
 To download either use :
 ```
-git clone https://gitlab.eecs.umich.edu/esolarz/Tree-Practice-EECS281.git
+git clone https://github.com/esolarz/Tree-Practice-.git
 ```
 
 
-or just download it via the gitlab page, but I think you might need to make a gitlab account to install
+or just download it via the github page, but I think you might need to make a github account to install
 
 
 At the moment the code only make a tree with 10 numbers, from 0 to 9 if you want to make a larger or smaller tree feel free to change it to your liking
